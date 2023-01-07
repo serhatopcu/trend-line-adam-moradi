@@ -1,6 +1,8 @@
 # trend-line-adam-moradi
-Adam moradi icin pine scripte yazdigim bir indikator...
 
+I developed an indicator for trader Adam Moradi.
+
+https://tr.tradingview.com/i/7nYt1gP8/
 
 The Pine Script strategy that plots pivot points and trend lines on a chart. The strategy allows the user to specify the period for calculating pivot points and the number of pivot points to be used for generating trend lines. The user can also specify different colors for the up and down trend lines.
 
